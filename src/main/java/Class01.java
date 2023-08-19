@@ -17,8 +17,8 @@ public class Class01 {
 
 //Version3
         System.out.println(x+y+z);
-
-
+//Version4
+        System.out.println("Hataliiii");
 
 
     }
